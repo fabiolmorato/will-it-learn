@@ -1,0 +1,8 @@
+{
+  "name": "will-it-learn",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "A Genetic Program approach in JavaScript",
+  "author": "Fábio Lino Morato (fabiolmorato@dcc.ufmg.br)",
+  "license": "MIT"
+}
